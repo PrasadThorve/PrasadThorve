@@ -13,8 +13,6 @@ I build production GenAI systems — from LLM-powered enterprise workflows to ag
 - ✍️ Writing about applied AI engineering
 - 📍 Pune, India
 
-<br>
-
 ## Tech Stack
 
 **Languages**  
@@ -65,19 +63,6 @@ I build production GenAI systems — from LLM-powered enterprise workflows to ag
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Also comfortable with:** DSA · OOP · System Design · Distributed Systems · Testing
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrasadThorve&show_icons=true&hide_border=true&count_private=true" alt="Prasad's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadThorve&layout=compact&hide_border=true" alt="Top languages" />
-
-</div>
-
-<br>
 
 ## Connect
 
